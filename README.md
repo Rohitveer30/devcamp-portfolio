@@ -13,6 +13,6 @@
 
 ```ruby
 def my_grate_method
-puts "here it is"
+  puts "here it is"
 end
 ```
